@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/CarRental"/>
+<!--    <Resource
+	name = ""
+	auth = ""
+	type = ""
+	maxActive = "3"
+	maxIdle = "2"
+	maxWait = "10"
+	driverClassName = "com.mysql.jdbc.Driver"
+	url = ""
+	username = "root"
+	password = "root"
+</Context> -->
